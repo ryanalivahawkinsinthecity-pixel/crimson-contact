@@ -1,0 +1,22 @@
+crimson_contract/
+├── main.py
+└── assets/
+    ├── music/
+    │   ├── menu.mp3
+    │   ├── act1.mp3
+    │   ├── separation.mp3
+    │   ├── reunion.mp3
+    │   └── ending.mp3
+    ├── sfx/
+    │   ├── rain.wav
+    │   ├── heartbeat.wav
+    │   ├── blood_drink.wav
+    │   └── footsteps.wav
+    └── sprites/
+        ├── aurelian/
+        │   ├── neutral.png
+        │   ├── happy.png
+        │   ├── sad.png
+        │   └── angry.png
+        └── player/
+            └── default.png
