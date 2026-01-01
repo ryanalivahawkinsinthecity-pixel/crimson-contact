@@ -1,22 +1,19 @@
 crimson_contract/
-├── main.py
-└── assets/
-    ├── music/
-    │   ├── menu.mp3
-    │   ├── act1.mp3
-    │   ├── separation.mp3
-    │   ├── reunion.mp3
-    │   └── ending.mp3
-    ├── sfx/
-    │   ├── rain.wav
-    │   ├── heartbeat.wav
-    │   ├── blood_drink.wav
-    │   └── footsteps.wav
-    └── sprites/
-        ├── aurelian/
-        │   ├── neutral.png
-        │   ├── happy.png
-        │   ├── sad.png
-        │   └── angry.png
-        └── player/
-            └── default.png
+├── game/
+│   ├── images/
+│   │   ├── aurelian_neutral.png        # Placeholder
+│   │   ├── aurelian_happy.png          # Placeholder
+│   │   ├── aurelian_sad.png            # Placeholder
+│   │   ├── aurelian_blink.png          # Placeholder for blinking
+│   │   ├── player_default.png          # Placeholder
+│   │   ├── fog.png                      # Fog overlay
+│   │   └── rain.png                     # Rain overlay
+│   ├── audio/
+│   │   ├── menu.ogg                     # Menu music placeholder
+│   │   ├── act1.ogg                     # Act 1 music placeholder
+│   │   ├── separation.ogg               # Separation scene music
+│   │   ├── reunion.ogg                  # Reunion scene music
+│   │   └── ending.ogg                   # Ending music
+│   └── script.rpy                        # Full Ren’Py script
+├── renpy.exe                              # Ren’Py launcher (optional)
+└── README.md                              # GitHub instructions
